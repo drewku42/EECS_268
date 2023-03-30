@@ -1,0 +1,10 @@
+5 4
+1000
+HHHHHHH
+      H
+HH HH H
+H  HH H
+H HHHHH
+H    HH
+HHHHHHH
+H     H

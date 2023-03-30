@@ -1,0 +1,15 @@
+1) Before starting implementation, design your code base.
+Design a class that will be in charge of reading the file.
+- Make a list of methods and member variables you think it should have
+
+
+2) Design a class that, given a valid map, will traverse it.
+- Make a list of member variables and method you think it should have.
+
+
+3) Discuss how you plan to detect the need for backtracking if you reach a deadend in the map.
+   What will variables/objects/arrays will need to be updated when you backtrack?
+
+
+4) Discuss how you plan to detect flooding all possible spaces OR running out of water
+
