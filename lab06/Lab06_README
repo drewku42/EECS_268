@@ -1,0 +1,8 @@
+For lab 6 we continued to implement recursion, though this was our first crack at an alogrithmic approach. We were given a
+2D array as an input file and we were tasked with traversing the array orthogonally using depth first search. Given a
+starting position, our recursive function must traverse as far through the maze as possible. We first practiced this idea 
+with a low abstraction by doing some code tracing in lecture. We understood that in order to traverse, we must first validate
+the starting position. If the position was a valid index of the 2D array and was not a highground space (denoted 'H'). Once
+we validated the starting position, our algorithm would move up, right, down or left depending on availability (in that
+order). After advancing one space, we would mark the empty ' ' space with a flooded space '~'. Once flooded, we would print
+the flooded map back to the user.
