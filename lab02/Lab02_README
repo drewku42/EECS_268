@@ -1,0 +1,8 @@
+Lab 2 was our first my first time implementing a node based data scructure. I started by defining a singlely-liked node,
+containing an entry and next parameter. Once this was defined I could get into my first node based data structure: the Stack.
+We learned about the basic abstraction of a stack and how we only needed to know which node was the top of the stack.
+From here I went on to define the following methods: is_empty(), push(), peek() and pop(). We implemented this stack strucure
+by simulating a computer process with a function stack. From here we read from an input file and started by initializing a
+given process (i.e. Firefox). This process would call various function and whether they could handle exceptions. If a called
+function could not handle an exception, the stack would pop functions off of the call stack until it reached a function which 
+could handle the exception.
