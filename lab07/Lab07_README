@@ -1,0 +1,7 @@
+After taking a few weeks to learn recursion, we were able to move on to a new data structure: Binary Trees. Understanding recursion was integral since we require
+recursion to navigate binary trees. We also needed to define a new type of node, since binary nodes must have their entry as well as 'left' and 'right' members
+to represent children within the tree. For lab 7 we were given a text document containing all 151 generation one pokemon with their English and Japanese names, as well
+as their pokedex number. I created a pokemon class and provided each of these elments as parameters. I iterated through the input file and made each entry into a pokemon
+and added them to the binary tree, which represented the pokedex. We had to implement a menu with a few functionalities: the ability to search the tree for a given
+pokemon's pokedex number, the ability to add a new pokemon to the pokedex, and the ability to print the pokedex. We learned in class about different ways to traverse
+binary trees, being pre order, post order and in order. We had to have print functionality for each of these traversals.
