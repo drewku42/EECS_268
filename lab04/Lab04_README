@@ -1,0 +1,5 @@
+We continue to learn new data structures and this week was the Singly-Linked List. I created my linked list with several
+methods: length(), insert(), remove(), get_entry(), set_entry() and clear(). To implement this linked list, we simulated 
+web browswer history. There were a few main functionalities of this implementation. Firstly, we were to keep track of the 
+current url even if you navigated behind it. If you were to navigate forward after navigating back then the newly
+navigated website would replace what was behind it, just like in an actual web browser.
