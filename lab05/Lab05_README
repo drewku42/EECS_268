@@ -1,0 +1,6 @@
+This week in lecture we got our first look at recursion. We were given three small recursion exercises to complete for this
+week's lab. We learned this low abstraction of recursion as finding a base case, and applying a small 'bite' to the problem
+until we found a solution. The first exercise would take a base number and an exponent and recursively solved for the base
+to this exponential power. Next was a virus outbreak simulator. We were given the total count of sick people for the first
+3 days and had to recursively solve for the Nth day. Lastly, we made a simple implementation of a recursive fibonacci solver.
+We had to give either the Nth term of the sequence, or verify that a number was a part of the sequence.
