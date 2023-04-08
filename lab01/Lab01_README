@@ -1,0 +1,7 @@
+Lab 1 served as a python refresher where we were tasked with accessing a text file containing around two hundred board games. 
+Each board game had a name, year of publication, and several ratings. I created a class to represent a boardgame and used
+the built in magic methods, (__eq__, __gt__, __lt__, etc), so I could compare the boardgames to each other. I iterated
+through the input file and created a new board game line by line, then added them to a list. From here, we were tasked
+to handle user input to print the list of boardgames in order by rating or year of pubication. Another functionality of this
+menu was to diaply board games made in a given year, board games within a certain playtime thershold, or games with a minumum
+rating.
