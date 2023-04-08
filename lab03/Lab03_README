@@ -1,0 +1,7 @@
+This week in lecture we continued to learn about node based data strucures. This week, we covered the queue. The queue
+methods I needed to create were enqueue(), dequeue(), peek_front() and is_empty(). We built upon what we learned last week 
+about stacks to implement a CPU Scheduler. The scheduler is represented by a queue, with several processes represented by
+stacks. We would read from an input file and add several processes to the queue. Whatever process was at the top of the 
+queue would call several functions. When the process at the front of the queue finished calling its functions, it would
+be dequeued and the next process would begin calling. After all processes were done calling functions, the process stack
+would return from main and end the final process.
